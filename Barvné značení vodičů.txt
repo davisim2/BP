@@ -1,0 +1,8 @@
+Pro konektory, které nemají jasně definované zapojení díky tvaru konektoru, slouží následující nápověda.
+(nahoře a dole se rozumí při pohledu ze předu platformy z pohledu shora na DPS)
+
+- Rozhraní SWD: červená (3,3V), červená (SWCLK), ... , bílá (NRST)
+- Sběrnice UART na platformě (konektory): nahoře RX, uprostřed TX, dole GND (U vodičů je vždy GND modrý)
+- Ovládání TB6600: žlutá (5V), červená (PUL), červená (DIR), bílá (EN) [žlutá - 5V přijde do konektoru dolů, bílá nahoru]
+- AS5304: žlutá (5V), modrá (GND), zelená pin 36, bílá pin 39
+- Hallovy senzory: bílá (3,3V), červená (výstup), červená (GND)
