@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "My_footprints")(type "KiCad")(uri "C:/Users/simda/OneDrive/Dokumenty/EK/BP/KiCad symboly/My_footprints.pretty")(options "")(descr ""))
+)

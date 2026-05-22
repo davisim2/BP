@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.1*%
+%TF.CreationDate,2026-01-29T13:58:13+01:00*%
+%TF.ProjectId,BP Nerf Blaster,4250204e-6572-4662-9042-6c6173746572,rev?*%
+%TF.SameCoordinates,PX55d4a80PY7270e00*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.1) date 2026-01-29 13:58:13*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y26000000D02*
+X109000000Y26000000D01*
+X109000000Y0D01*
+X0Y0D01*
+X0Y26000000D01*
+M02*
